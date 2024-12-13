@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://i.postimg.cc/W1177tTT/profile-pic.jpg"  />
-</div>
+
 
 ###
 
